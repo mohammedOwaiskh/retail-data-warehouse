@@ -21,3 +21,8 @@ This end-to-end pipeline showcases:
 ## 🏗️ Architecture
 ### High Level Architecture
 ![Data Warehouse Architecture](snapshots/high-level-architecture.png)
+
+---
+
+## Prerequisites and Setup
+Steps to setup this project on the Azure Cloud Portal and be found in the [setup.md](/docs/setup.md).
