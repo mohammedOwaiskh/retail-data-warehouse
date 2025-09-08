@@ -20,7 +20,7 @@ This end-to-end pipeline showcases:
 
 ## 🏗️ Architecture
 ### High Level Architecture
-![Data Warehouse Architecture](snapshots/high-level-architecture-dark.png)
+![Data Warehouse Architecture](snapshots/high-level-architecture.png)
 
 ---
 
